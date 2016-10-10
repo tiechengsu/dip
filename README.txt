@@ -1,4 +1,3 @@
-# dip
 Digital Image Processing
 Image Registration for High Dynamic Range Image Generation
 Tiecheng Su: Global Image Registration
